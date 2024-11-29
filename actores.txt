@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+Leonardo DiCaprio - Famoso por películas como Titanic, Inception y The Revenant (por la cual ganó un Oscar).
+Denzel Washington - Reconocido por sus actuaciones en Training Day, Malcolm X y Fences.
+>>>>>>> test
 Tom Hanks - Famoso por sus papeles en Forrest Gump, Cast Away y Saving Private Ryan.
